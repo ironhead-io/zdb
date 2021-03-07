@@ -1,0 +1,4 @@
+*.o
+zdb-test
+TODO
+tests/*
